@@ -13,5 +13,5 @@ Here something about me:
 - ❤ Passionate about the .NET stack 
 
 #### Follow me on my social networks:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/fhgm/)](www.linkedin.com/in/fhgm)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fhgm/)](https://www.linkedin.com/in/fhgm/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/fernando.henrique.1000469/)](https://www.facebook.com/fernando.henrique.1000469/)
