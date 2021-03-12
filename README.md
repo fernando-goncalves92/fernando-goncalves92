@@ -11,7 +11,6 @@ Here something about me:
 - 💬 Ask me about development and games 🎮, specially Rainbow Six Siege and Valorant 😁
 - ⚡ Check out my repositories, specially [SearchSQL](https://github.com/fernando-goncalves92/SearchSQL) and [EasyLogger](https://github.com/fernando-goncalves92/Easylog)
 - 💜 Passionate about the .NET stack 
-- 
 
 #### Follow me on my social medias:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fhgm/)](https://www.linkedin.com/in/fhgm/)
