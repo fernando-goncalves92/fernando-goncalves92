@@ -6,7 +6,7 @@
 
 Here something about me:
 
-- 🔭 I’m currently working at [Sequor Industrial Software](https://www.sequor.com.br/) as Software Development Coordinator
+- 🔭 I’m currently working at [Dextra](https://www.dextra.com.br/) as Senior Software Developer
 - 👯 I'm looking to collaborate on open source projects and create amazing tools to facilitate development routines
 - 💬 Ask me about development and games 🎮, specially Rainbow Six Siege 😁
 - ⚡ Check out my repositories, [SearchSQL](https://github.com/fernando-goncalves92/SearchSQL) and [EasierLog](https://github.com/fernando-goncalves92/Easierlog)
