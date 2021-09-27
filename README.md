@@ -12,6 +12,6 @@ Here something about me:
 - ⚡ Check out my repositories, [SearchSQL](https://github.com/fernando-goncalves92/SearchSQL) and [EasierLog](https://github.com/fernando-goncalves92/Easierlog)
 - 💜 Passionate about the .NET stack 
 
-#### Follow me on my social medias:
+#### Social medias:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fhgm/)](https://www.linkedin.com/in/fhgm/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/fernando.henrique.1000469/)](https://www.facebook.com/fernando.henrique.1000469/)
