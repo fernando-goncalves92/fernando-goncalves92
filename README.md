@@ -8,8 +8,8 @@ Here something about me:
 
 - 🔭 I’m currently working at [CI&T](https://ciandt.com/br/) as Senior Software Analyst. We're hiring, [take a look](https://ciandt.com/br/pt-br/carreiras/oportunidades).
 - 👯 I'm looking to collaborate on open source projects and create amazing tools to facilitate development routines
-- 💬 Ask me about development and games 🎮, specially Rainbow Six Siege 😁
-- ⚡ Check out my repositories, [SearchSQL](https://github.com/fernando-goncalves92/SearchSQL) and [EasierLog](https://github.com/fernando-goncalves92/Easierlog)
+- 💬 Ask me about development and games 🎮
+- ⚡ Check out my repositories
 - 💜 Passionate about the .NET stack 
 
 #### Social medias:
