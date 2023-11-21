@@ -6,7 +6,7 @@
 
 Here something about me:
 
-- 🔭 I’m currently working at [CI&T](https://ciandt.com/br/) as Senior Software Analyst. We're hiring, [take a look](https://ciandt.com/br/pt-br/carreiras/oportunidades).
+- 🔭 I’m currently working at [Evolve Squads](https://evolvesquads.com/) as Senior Software Analyst. We're hiring, [take a look](https://evolvesquads.com/careers/).
 - 👯 I'm looking to collaborate on open source projects and create amazing tools to facilitate development routines
 - 💬 Ask me about development and games 🎮
 - ⚡ Check out my repositories
